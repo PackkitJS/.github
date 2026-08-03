@@ -7,7 +7,7 @@ deploy providers that launch what it generates.
 
 | Package | What it is |
 | --- | --- |
-| **[create-packkit](https://www.npmjs.com/package/create-packkit)** | The generator. Scaffold a modern npm package, CLI, service, or app from a CLI **or** a [web configurator](https://danmat.github.io/create-packkit/) — with safe, baseline-aware upgrades and a stable embedded API. |
+| **[create-packkit](https://www.npmjs.com/package/create-packkit)** | The generator. Scaffold a modern npm package, CLI, service, or app from a CLI **or** a [web configurator](https://packkitjs.github.io/create-packkit/) — with safe, baseline-aware upgrades and a stable embedded API. |
 | **[@packkit/provider-netlify](https://github.com/PackkitJS/provider-netlify)** | Netlify deployment provider. Consumes a generated project's deployment contract to plan and apply a Netlify site. |
 
 ## How it fits together
