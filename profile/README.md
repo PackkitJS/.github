@@ -12,7 +12,7 @@ with a stable embedded API and safe, baseline-aware upgrades.
 | Repo | What it is |
 | --- | --- |
 | **[@packkit/core](https://github.com/PackkitJS/packkit-core)** | The universal protocol + lifecycle primitives — generator contract, deployment contracts, digest, extension, upgrade engine, conformance suites. Browser-safe by default; language-agnostic. |
-| **[create-packkit](https://github.com/PackkitJS/create-packkit)** | The **JavaScript/TypeScript** generator — libraries, CLIs, services, SPAs, monorepos. |
+| **[create-packkit](https://github.com/PackkitJS/create-packkit-js)** | The **JavaScript/TypeScript** generator — libraries, CLIs, services, SPAs, monorepos. |
 | **[create-packkit-py](https://github.com/PackkitJS/create-packkit-py)** | The **Python** generator — pyproject/uv, ruff, pytest, mypy, src layout. |
 | **[packkit-web](https://github.com/PackkitJS/packkit-web)** | The browser configurator — pick a language, configure, download a zip. [Live](https://packkit-web.pages.dev/). |
 | **[packkit-mcp](https://github.com/PackkitJS/packkit-mcp)** | The Model Context Protocol server — AI agents scaffold & upgrade projects in any supported language as a native tool. |
